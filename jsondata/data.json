@@ -1,0 +1,241 @@
+{
+    "title": {
+        "media": {
+          "url": "https://learnodo-newtonic.com/wp-content/uploads/2019/05/Famous-Indian-Artists-Featured.webp",
+          "caption": "Famous Indian Artists",
+          "credit": "learnodo-newtonic.com/<a href='https://learnodo-newtonic.com/wp-content/uploads/2019/05/Famous-Indian-Artists-Featured.webp'>picture</a>"
+        },
+        "text": {
+          "headline": "Indian Artists<br/> 1848 - 2015",
+          "text": "<p>This is a timeline of some notable artists who were born in India or have a strong association with India. </p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ravivarma1b.jpg",
+          "caption": "A photograph of Ravi Varma himself, by Bhawani Ram, 1890's",
+          "credit": "Raja Ravi Verma photo:<a href='http://www.columbia.edu/itc/mealac/pritchett/00routesdata/bce_299_200/mahabharata/ravivarma/ravivarma.html'>Art</a>"
+        },
+        "start_date": {
+          
+          "year": "1848"
+        },
+        "text": {
+          "headline": "Raja Ravi Verma (29 April 1848 – 2 October 1906)",
+          "text": "<p>His works are held to be among the best examples of the fusion of European techniques with a purely Indian sensibility. While continuing the tradition and aesthetics of Indian art, his paintings employed the latest European academic art techniques of the day.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Raja_Ravi_Varma%2C_There_Comes_Papa_%281893%29.jpg",
+          "caption": "There comes Papa (1893) - Depicting Varma's daughter Mahaprabha with one of her sons.",
+          "credit": "Public Domain"
+        },
+        "start_date": {
+          "year": "1848"
+        },
+        "text": {
+          "headline": "The indisputable father figure of modern Indian art",
+          "text": "He was notable for making affordable lithographs of his paintings available to the public, which greatly enhanced his reach and influence as a painter and public figure. In particular, his depictions of Hindu deities and episodes from the epics and Puranas have received profound acceptance from the public and are found, often as objects of worship, across the length and breadth of India."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/800px-Rabindranath_Tagore_unknown_location.jpg",
+          "caption": "Gurudev, Kabiguru, Biswakabi",
+          "credit": "State Archive"
+        },
+        "start_date": {
+          "year": "1861"
+        },
+        "text": {
+          "headline": "Rabindranath Tagore (7 May 1861 – 7 August 1941) ",
+          "text": " A Bengali poet, writer, music composer, and painter, who reshaped Bengali literature and music, as well as Indian art with Contextual Modernism."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tagore_handwriting_Bengali.jpg/320px-Tagore_handwriting_Bengali.jpg",
+          "caption": "Part of a poem written by Tagore in Hungary, 1926.",
+          "credit": "Pubic domain"
+        },
+        "start_date": {
+          "year": "1861"
+        },
+        "text": {
+          "headline": "Bengal Renaissance - the Bard of Bengal",
+          "text": "His novels, stories, songs, dance-dramas, and essays spoke to topics political and personal. Gitanjali (Song Offerings), Gora (Fair-Faced) and Ghare-Baire (The Home and the World) are his best-known works, and his verse, short stories, and novels were acclaimed—or panned—for their lyricism, colloquialism, naturalism, and unnatural contemplation."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Gaganendranath_Tagore.jpg",
+          "caption": "Gaganendranath Tagore (1867 – 1938)",
+          "credit": "Public Domain"
+        },
+        "start_date": {
+          "year": "1867"
+        },
+        "text": {
+          "headline": "Gaganendranath Tagore (1867 – 1938)",
+          "text": "Between 1906 and 1910, the artist studied and assimilated Japanese brush techniques and the influence of Far Eastern art into his own work"
+        }
+      },
+      {
+        "media": {
+          "url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Faf%2F8d%2Fd2%2Faf8dd204864cffe5d92de494d36ff6ef.png&f=1&nofb=1",
+          "caption": "City in the night - 1925",
+          "credit": "pinterest"
+        },
+        "start_date": {
+          "year": "1867"
+        },
+        "text": {
+          "headline": "Cubism, Cartoons and Tagore",
+          "text": "The Modern Review published many of his cartoons in 1917. His satirical lithographs appeared in a series of books, including Play of Opposites, Realm of the Absurd and Reform Screams. Between 1920 and 1925, Gaganendranath pioneered experiments in modernist painting. Partha Mitter describes him as \"the only Indian painter before the 1940s who made use of the language and syntax of Cubism in his painting\". From 1925 onwards, the artist developed a complex post-cubist style. "
+        }
+      },
+      {
+        "media": {
+          "url": "https://uploads8.wikiart.org/temp/e7d50a06-f8bf-4112-9aa2-dab8ffdd6fb7.jpg!Portrait.jpg",
+          "caption": "Pioneer of modern Indian art and a key figure of Contextual Modernism. ",
+          "credit": "<a href='https://wikiart.org/'>Wikiart</a>"
+        },
+        "start_date": {
+          "year": "1882"
+        },
+        "text": {
+          "headline": "Nandalal Bose (3 December 1882 – 16 April 1966)",
+          "text": "A pupil of Abanindranath Tagore, Bose was known for his \"Indian style\" of painting. His classic works include paintings of scenes from Indian mythologies, women, and village life. He was given the work of illustrating the constitution of India. <br><br>(Whose works are) \" art treasures, having regard to their artistic and aesthetic value\" - Archaeological Survey of India "
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Yama_And_Savitri%2C_from_a_painting_by_Nandalal_Bose.jpg",
+          "caption": "Yama and Savitri",
+          "credit": "Public Domain"
+        },
+        "start_date": {
+          "year": "1882"
+        },
+        "text": {
+          "headline": "Influences and Legacy of Nandalal Bose",
+          "text": "As a young artist, Nandalal Bose was deeply influenced by the murals of the Ajanta Caves. Bose created a black on white linocut print of Gandhi walking with a staff. It became the iconic image for the non-violence movement. Today, the National Gallery of Modern Art in Delhi holds 7000 of his works in its collection."
+        }
+      },
+      {
+        "media": {
+          "url": "https://1.bp.blogspot.com/-t9zV36DcxQo/WPQ6tjjxBKI/AAAAAAAAIFk/1PIsZWEk9UM_2JgPFRszFMaXHKThZ2ESACLcB/s400/jamini%2Broy.jpg",
+          "caption": "Jamini Roy (11 April 1887 – 24 April 1972)",
+          "credit": "lifestalker.com"
+        },
+        "start_date": {
+          "year": "1887"
+        },
+        "text": {
+          "headline": "Jamini Roy (11 April 1887 – 24 April 1972)",
+          "text": "He was one of the most famous pupils of Abanindranath Tagore, whose artistic originality and contribution to the emergence of modern art in India remains unquestionable. He was honoured with the State award of Padma Bhushan in 1955. <br> Consequently, his techniques as well as subject matter was influenced by traditional art of Bengal."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Jamini_Roy_-_Mother_and_Child_-_Google_Art_Project.jpg/320px-Jamini_Roy_-_Mother_and_Child_-_Google_Art_Project.jpg",
+          "caption": "Mother and Child, oil on canvas, mid 1920",
+          "credit": "National Gallery of Modern Art"
+        },
+        "start_date": {
+          "year": "1887"
+        },
+        "text": {
+          "headline": "Jamini Roy - Evolution",
+          "text": "Roy began his career as a commissioned portrait painter. Roy is also described as an art machine because he produced 20,000 paintings in his lifetime which is about 10 paintings daily.<br><br>Roy changed style from his academic Western training and featured a new style based on Bengali folk traditions. His underlying quest was threefold: to capture the essence of simplicity embodied in the life of the folk people; to make art accessible to a wider section of people; and to give Indian art its own identity."
+        }
+      },
+      {
+        "media": {
+          "url": "http://artnewsnviews.com/userfiles/image/feb12/11Mdey/Mdey1.jpg",
+          "caption": "Manishi Dey",
+          "credit": "artnewsnviews"
+        },
+        "start_date": {
+          "year": "1909"
+        },
+        "text": {
+          "headline": "Manishi Dey (22 September 1909 – 31 January 1966)",
+          "text": "An Indian painter of the Bengal School of Art born in Dhaka, Bengal Presidency. The political and religious developments in the Indian subcontinent were a major influence during his life.<br> One of the major sources of Manishi Dey's inspirations were his travels as he traversed tirelessly throughout the Indian subcontinent in search of varied and newer visual idioms. His works receive a renewed international interest since the end of the 20th Century and were exhibited in London and New York."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amrita_Sher-Gil_2.jpg/800px-Amrita_Sher-Gil_2.jpg",
+          "caption": "Sher-Gil in an ornate gown and jewelry",
+          "credit": "Public Domain"
+        },
+        "start_date": {
+          "year": "1913"
+        },
+        "text": {
+          "headline": "Amrita Sher-Gil (30 January 1913 – 5 December 1941) ",
+          "text": "<p>A Hungarian-Indian painter, she has been called \"one of the greatest avant-garde women artists of the early 20th century\" and a \"pioneer\" in modern Indian art. <br>Sher-Gil traveled throughout her life to various countries including Turkey, France, and India, deriving heavily from precolonial Indian art styles and its current culture.<br> Sher-Gil's art has influenced generations of Indian artists from Sayed Haider Raza to Arpita Singh and her depiction of the plight of women has made her art a beacon for women at large both in India and abroad. The Government of India has declared her works as National Art Treasures.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://news.artnet.com/app/news-upload/2018/11/037IN1801_9YT2B.jpg.webrend.1280.1280.jpg",
+          "caption": "The Little Girl in Blue",
+          "credit": "news.artnet.com"
+        },
+        "start_date": {
+          "year": "1913"
+        },
+        "text": {
+          "headline": " India's Frida Kahlo",
+          "text": "<p>Sher-Gil's paintings are among the most expensive by Indian women painters today, although few acknowledged her work when she was alive. Her work is deemed to be so important to Indian culture that when it is sold in India, the Indian government has stipulated that the art must stay in the country – fewer than ten of her works have been sold globally.<br> In 2018, at a Sotheby's auction in Mumbai, Amrita Sher-Gil's painting \"The Little Girl in Blue\" was auctioned for a record-breaking 18.69 crores. </p>"
+        }
+      },      
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/MFHussain2.jpg",
+          "caption": "MF Hussain ",
+          "credit": "Public Domain "
+        },
+        "start_date": {
+          "year": "1915"
+        },
+        "text": {
+          "headline": "Maqbool Fida Husain (17 September 1915 – 9 June 2011)",
+          "text": "An Indian artist known for executing bold, vibrantly coloured narrative paintings in a modified Cubist style. <br>He was one of the most celebrated and internationally recognized Indian artists of the 20th century. His narrative paintings, executed in a modified Cubist style, can be caustic and funny as well as serious and sombre. His themes—sometimes treated in series—include topics as diverse as Gandhi, Mother Teresa, the Ramayana, the Mahabharata, the British Raj, and motifs of Indian urban and rural life. "
+        }
+      },
+      {
+        "media": {
+          "url": "http://www.artmarketmonitor.com/wp-content/uploads/2017/02/f_n_souza_by_ida_kar.png",
+          "caption": "A younger FN Souza, with his art",
+          "credit": "artmarketmonitor"
+        },
+        "start_date": {
+          "year": "1924"
+        },
+        "text": {
+          "headline": "Francis Newton Souza (12 April 1924 – 28 March 2002)",
+          "text": "Francis Newton Souza was a Goan artist. He was a founding member of the Progressive Artists' Group of Bombay, and was the first post-independence Indian artist to achieve high recognition in the West. Souza's style exhibited both low-life and high energy. "
+        }
+      },
+      {
+        "media": {
+          "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2015/09/19/377245-birth.jpg",
+          "caption": "Birth",
+          "credit": "<a href=https://dnaindia.com>dnaindia</a>"
+        },
+        "start_date": {
+          "year": "1924"
+        },
+        "text": {
+          "headline": "An Insight into Souza",
+          "text": "\"At the heart of Souza's creativity was the belief that society's destructive aspects shouldn't be suppressed, they should be aired and confronted. Be it the hypocrisy of the church, the corruption of the upper classes or the repression of sexuality in a country that has a Khajuraho, he was uncovering the underbelly of existence.\"<br>\t - Art historian Yashodhara Dalmia <br><br>In recent years Souza's Paintings have been sold for over a million dollars In 2008, his painting \"Birth\" (1955) set a world auction record for the most expensive Indian painting sold till then by selling for US$2.5 million (Rs 11.3 crore) at a Christie's auction. In 2015, the painting \"Birth\" was resold at Christie's in New York, fetching more than US$4 million."
+        }
+      }
+
+    ]
+}
